@@ -6,11 +6,11 @@ Resources and information to support the Atomic Design / Pattern Lab workshop at
 
 ## Prework
 
-Workshop attendees can start with their best feet forward if they come with a system ready to start developing with Pattern Lab. Users will need to decide which platform they are more comfortable working within.
+Workshop attendees can start with their best feet forward if they come with a system ready to start developing with Pattern Lab. Users will need to decide which platform they are more comfortable working within, PHP or Node.
 
 ### PHP Setup
 
-Forthcoming
+Having PHP installed is the only requirement for using the PHP version of Pattern Lab. Mac OS X and Linux come with PHP pre-installed. Windows users can [download and install PHP 5.6](http://windows.php.net/downloads/releases/php-5.6.22-Win32-VC11-x86.zip). A Zip release of the workshop-compatible set-up of Pattern Lab for PHP will be released on Tuesday, June 21.
 
 ### Node Setup
 
