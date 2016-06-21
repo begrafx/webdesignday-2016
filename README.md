@@ -22,9 +22,8 @@ To use the Node version of Pattern Lab, follow the instructions found on the  [E
 
 Forthcoming
 
-## Exercise Repositories
+## Exercise Starterkits
 
-* Exercise 1 Start: Forthcoming
-* Exercise 2 Start: Forthcoming
-* Exercise 2 End: Forthcoming
-* Bonus?: Forthcoming
+Starterkits are prepackaged sets of frontend assets and patterns that can be built and used to get up and running with a project. A couple starterkits have been created to guide workshop attendees through the exercises and re-align anyone that wants to return to a stable point.
+
+You can find instructions on how to install these starterkits here: [https://github.com/pattern-lab/starterkit-mustache-webdesignday](https://github.com/pattern-lab/starterkit-mustache-webdesignday)
