@@ -10,7 +10,9 @@ Workshop attendees can start with their best feet forward if they come with a sy
 
 ### PHP Setup
 
-Having PHP installed is the only requirement for using the PHP version of Pattern Lab. Mac OS X and Linux come with PHP pre-installed. Windows users can [download and install PHP 5.6](http://windows.php.net/downloads/releases/php-5.6.22-Win32-VC11-x86.zip). A Zip release of the workshop-compatible set-up of Pattern Lab for PHP will be released on Tuesday, June 21.
+Having PHP installed is the only requirement for using the PHP version of Pattern Lab. Mac OS X and Linux come with PHP pre-installed. Windows users can [download and install PHP 5.6](http://windows.php.net/downloads/releases/php-5.6.22-Win32-VC11-x86.zip). 
+
+A download of the [Web Design Day edition of Pattern Lab for PHP](https://github.com/pattern-lab/edition-php-mustache-webdesignday/releases) is available on GitHub. [Learn more about its features](https://github.com/pattern-lab/edition-php-mustache-webdesignday#pattern-lab-web-design-day-edition-for-mustache).
 
 ### Node Setup
 
@@ -22,9 +24,8 @@ To use the Node version of Pattern Lab, follow the instructions found on the  [E
 
 Forthcoming
 
-## Exercise Repositories
+## Exercise Starterkits
 
-* Exercise 1 Start: Forthcoming
-* Exercise 2 Start: Forthcoming
-* Exercise 2 End: Forthcoming
-* Bonus?: Forthcoming
+Starterkits are prepackaged sets of frontend assets and patterns that can be built and used to get up and running with a project. A couple starterkits have been created to guide workshop attendees through the exercises and re-align anyone that wants to return to a stable point.
+
+You can find instructions on how to install these starterkits here: [https://github.com/pattern-lab/starterkit-mustache-webdesignday](https://github.com/pattern-lab/starterkit-mustache-webdesignday)
