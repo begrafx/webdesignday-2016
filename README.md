@@ -16,7 +16,12 @@ A download of the [Web Design Day edition of Pattern Lab for PHP](https://github
 
 ### Node Setup
 
-To use the Node version of Pattern Lab, follow the instructions found on the  [Edition Node Gulp repository](https://github.com/pattern-lab/edition-node-gulp).
+The Node version of Pattern Lab is wrapped within Gulp or Grunt editions. Both require [Node v4.0.0 or greater](https://nodejs.org/en/download/).
+
+Follow the instructions found on the  in the edition that best fits your comfort.
+
+* [Edition Node Gulp repository](https://github.com/pattern-lab/edition-node-gulp)
+* [Edition Node Grunt repository](https://github.com/pattern-lab/edition-node-grunt) - less tested
 
 > Specifically, if you can manage to install all prerequisites prior to the start of the workshop, we will avoid potential problems pulling down all the code from Github.
 
